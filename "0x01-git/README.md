@@ -1,1 +1,1 @@
-GETTING INTERESTING
+my readme
